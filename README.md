@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **rsssaket99@gmail.com**
 
-- ⚡ Fun fact **I love software development**
+- ⚡ Fun fact **I love Software development**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
